@@ -6,7 +6,7 @@ description: โค้ต (ไม่) ลับ
 logo: site-logo-2.png
 search: true
 url: http://localhost:4000
-#url: https://secretscode.github.io
+url: https://secretscode.github.io
 
 # Jekyll configuration
 
