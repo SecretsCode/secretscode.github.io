@@ -112,7 +112,7 @@ Project 'hello-angular' successfully created.
 โครงสร้างหน้าตากก็จะมีประมาณนี้ 
 
 <figure>
-	<img src="/images/blogs/201703/str.jpg" alt="image">
+	<img src="/images/blogs/201703/Str.jpg" alt="image">
 </figure>
 
 > ในส่วนนี้ผมจะอธิบายการทำงานของแต่ล่ะ Folder ไม่ครบทั้งหมดนะครับ  
